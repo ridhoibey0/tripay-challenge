@@ -5,7 +5,7 @@
 #### Clone the repository
 
 ```bash
-git clone https://github.com/ridhoibey0/tripay-challenge
+git clone https://github.com/ridhoibey0/tripay-challenge.git
 ```
 
 #### Copy .env.example file to .env and edit credentials also set app url
